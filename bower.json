@@ -1,12 +1,12 @@
 {
-  "name": "bootstrap-toggle",
-  "version": "1.1.0",
+  "name": "bs3-bootstrap-toggle",
+  "version": "1.1.1",
   "main": ["./js/bootstrap-toggle.js", "./css/bootstrap-toggle.css"],
-  "homepage": "https://github.com/minhur/bootstrap-toggle",
+  "homepage": "https://github.com/wisely051543/bs3-bootstrap-toggle",
   "authors": [
-    "Min Hur <min.hur@nytimes.com>"
+    "Wisely Shao <wisely_shao@migocrop.com>"
   ],
-  "description": "Bootstrap Toggle is a lightweight Bootstrap plugin that allows toggle switches on your pages",
+  "description": "This version is forked from https://github.com/minhur/bootstrap-toggle, fixed CSS issue when using Bootstrap3",
   "keywords": [
     "bootstrap",
     "toggle",
